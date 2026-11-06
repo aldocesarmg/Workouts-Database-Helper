@@ -1,0 +1,17 @@
+{
+  "name": "dbs",
+  "version": "1.0.0",
+  "main": "WorkoutsToSQL.js",
+  "type": "module",
+  "scripts": {
+    "start": "node WorkoutsToSQL.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "better-sqlite3": "^13.0.3",
+    "sqlite3": "^6.0.1"
+  }
+}
